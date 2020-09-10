@@ -5,6 +5,8 @@
 <br/>
 
 # Gatsby Starter Novela
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falicrazy1947%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falicrazy1947%2Fblog?ref=badge_shield)
+
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
 
@@ -69,3 +71,7 @@ If you don't have *yarn* installed follow the [yarn getting started guide](https
 
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falicrazy1947%2Fblog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falicrazy1947%2Fblog?ref=badge_large)
